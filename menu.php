@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Mon super site</title>
+<link rel="stylesheet" href="design.css" />
+</head>
+<body>
+<!-- Le menu -->
+	<nav >
+		<div class="element_menu">
+			<h3>Titre menu</h3>
+			<ul>
+				<li><a href="page1.html">Lien</a></li>
+				<li><a href="page2.html">Lien</a></li>
+				<li><a href="page3.html">Lien</a></li>
+			</ul>
+		</div>
+	</nav>
+</body>
+</html>
